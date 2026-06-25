@@ -1,4 +1,4 @@
 paths:
-  id_csv: /users/kjung6/enigma_files/test_dcm2csv/bids_metadata_id.csv
-  bids_dir: /users/kjung6/enigma_files/test_dcm2csv/bids
-  output_dir: /users/kjung6/enigma_files/test_dcm2csv/output/
+  id_csv: /path/to/bids_id.csv
+  bids_dir: /path/to/bids
+  output_dir: /path/to/output
